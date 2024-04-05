@@ -1,3 +1,12 @@
+El siguiente trabajo tiene como objetivo aplicar los conceptos y técnicas análisis exploratorio y descriptivo de un conjunto de datos reales de un Call center, con la finalidad de poder
+proponer mejoras en:
+* Eficiencia operativa, proponiendo mejoras operativas.
+* Mejorar la satisfacción del cliente, cumpliendo los SLA comprometidos.
+* Brindar una herramienta para la gestión y la toma de decisiones a los managers del Call Center.
+
+
+
+
 Respuesta de voz generada por computadora con información sobre las cuentas de los clientes (a través del dispositivo VRU = Voice Response Unit (unidad de respuesta de voz). Una unidad de respuesta de voz (VRU) es un sistema de contestador telefónico automático que posee un hardware y software que permite a la persona que llama navegar a través de una serie de mensajes pregrabados y utilizar un menú de opciones mediante los botones de un teléfono o el reconocimiento de voz.)
 
 1) linea_vru - 6 dígitos
